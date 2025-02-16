@@ -33,8 +33,5 @@ After training, we evaluate on a 20% test split. Key results:
 
 I also produced partial dependence plots to see how timing features (month/day) affect outcomes, and used SHAP to understand how each variable (like call duration, previous campaign outcome, housing loan) influences individual predictions.
 
-We conclude that the model provides a useful way to target high-likelihood customers, adjust outreach timing, and tailor messages based on top drivers such as previous campaign outcome, call duration, and loan status.
-
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+I conclude that the model provides a useful way to target high-likelihood customers, adjust outreach timing, and tailor messages based on top drivers such as previous campaign outcome, call duration, and loan status.
 
