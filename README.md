@@ -1,7 +1,7 @@
 # PROJECT TITLE 
 PORTFOLIO PROJECT ON OPTIMISING A MODEL FOR REAL-LIFE DATA
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## NON-TECHNICAL EXPLANATION
 This project aims to help a bank identify which customers are most likely to respond positively to a marketing campaign for term deposits. By using data about each customer’s demographics, financial history, and past interactions, I train a machine learning model that highlights the best people to contact. I also analyse the ideal timing to reach out and how to personalise communication. Ultimately, this saves time and resources by focusing on high-potential customers. It’s like giving the bank a roadmap, so they know who to contact, when to contact them, and what message will best resonate with each customer.
 
 ## DATA
